@@ -35,3 +35,18 @@ p{
     padding: 10px 40px;
     border-radius: 15px;
 }
+.B{
+    display: flex;
+    background-image: url(images/bottom_bg.png);
+    padding-left: 0px;
+}
+.B-1{
+    width: 50%;
+}
+.B-1 p{
+    padding-right: 5%;
+}
+.B-1 img{
+    width: 900px;
+    padding-left: 5%;
+}
