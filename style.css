@@ -37,8 +37,9 @@ p{
 }
 .B{
     display: flex;
-    background-image: url(images/bottom_bg.png);
-    padding-left: 0px;
+    background-image: url(images/new_bottom.png);
+    background-repeat: no-repeat;
+    background-position: right;
 }
 .B-1{
     width: 50%;
@@ -47,6 +48,6 @@ p{
     padding-right: 5%;
 }
 .B-1 img{
-    width: 900px;
+    width: 600px;
     padding-left: 5%;
 }
