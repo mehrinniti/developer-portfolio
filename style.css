@@ -68,3 +68,16 @@ p{
     width: 450px;
     padding-left: 210px;
 }
+.D{
+    display: flex;
+}
+.D-1{
+    width: 50%;
+    padding-left: 5%;
+}
+.D-1 img{
+    width: 450px;
+}
+.D-1 h3{
+    padding-top: 20%;
+}
